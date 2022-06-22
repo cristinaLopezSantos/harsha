@@ -1,3 +1,32 @@
 a {
     text-decoration: none;
 }
+
+li {
+    list-style: none;
+    
+}
+
+ul {
+    margin: 0px; 
+    padding: 0px;;
+}
+
+.texto {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 1.2rem;
+    
+}
+
+.saberMas {
+    font-size: 0.9rem;
+    font-weight: bold;
+    
+}
+
+blockquote {
+    margin: 2.5rem;
+}
